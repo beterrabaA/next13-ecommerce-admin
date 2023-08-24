@@ -91,7 +91,7 @@ model Product {
   category   Category @relation("CategoryToProduct", fields: [categoryId], references: [id])
   size       Size     @relation("SizeToProduct", fields: [sizeId], references: [id])
   color      Color    @relation(fields: [colorId], references: [id])
-  Image      Image[]
+  images     Image[]
 
   @@index([storeId])
   @@index([categoryId])
