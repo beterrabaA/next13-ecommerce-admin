@@ -18,7 +18,7 @@ Dashboard to managing and creating products in an ecommerce. Intergraded with a 
 
 ## Screenshots
 
-![App Screenshot](public/Captura de tela 2023-09-18 205138.png)
+![App Screenshot](./public/Captura de tela 2023-09-18 205138.png)
 
 ## Environment variables
 
